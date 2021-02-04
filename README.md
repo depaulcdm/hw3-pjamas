@@ -5,3 +5,4 @@ Testing things out
 
 - [x] first commit
 - [ ] hello?
+- [x] did some branchings
